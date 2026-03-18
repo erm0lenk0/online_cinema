@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Poetry
+poetry.lock
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+*.DS_Store
